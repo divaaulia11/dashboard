@@ -1,0 +1,10 @@
+.BarChart .recharts-bar-rectangle {
+    fill: pink !important; /* Mengubah warna bagian batang menjadi pink */
+}
+
+.chart-container {
+    width: 100%;
+    display: flex;
+    justify-content: center; /* Pusatkan konten ke tengah secara horizontal */
+    padding: 20px; /* Berikan ruang di sekitar grafik */
+}
